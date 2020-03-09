@@ -1,4 +1,4 @@
-1. [Android] Java class/method trace script [:point_left:](http://linforum.kr/bbs/board.php?bo_table=android&wr_id=790)
+# [Android] Java class/method trace script [[link](http://linforum.kr/bbs/board.php?bo_table=android&wr_id=790)]
 ```javascript
 // generic trace
 function trace(pattern)
